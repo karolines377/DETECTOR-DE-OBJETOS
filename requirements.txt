@@ -1,0 +1,4 @@
+streamlite
+opencv-python-headless
+numpy
+ultralytics
